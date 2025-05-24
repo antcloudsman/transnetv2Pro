@@ -1,0 +1,153 @@
+{
+  "source_video": "input.mp4",
+  "video_info": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30.0,
+    "duration": 275.0,
+    "codec": "h264"
+  },
+  "split_info": {
+    "mode": "scene",
+    "total_scenes": 51,
+    "total_frames": 8250,
+    "processed_at": "2025-05-12T04:04:45.726464"
+  },
+  "segments": [
+    {
+      "index": 1,
+      "filename": "input_001.mp4",
+      "start_frame": 0,
+      "end_frame": 1552,
+      "start_time": 0.0,
+      "duration": 51.766666666666666,
+      "frame_count": 1553
+    },
+    {
+      "index": 7,
+      "filename": "input_007.mp4",
+      "start_frame": 1558,
+      "end_frame": 1860,
+      "start_time": 51.93333333333333,
+      "duration": 10.1,
+      "frame_count": 303
+    },
+    {
+      "index": 10,
+      "filename": "input_010.mp4",
+      "start_frame": 1863,
+      "end_frame": 2166,
+      "start_time": 62.1,
+      "duration": 10.133333333333333,
+      "frame_count": 304
+    },
+    {
+      "index": 13,
+      "filename": "input_013.mp4",
+      "start_frame": 2169,
+      "end_frame": 2470,
+      "start_time": 72.3,
+      "duration": 10.066666666666666,
+      "frame_count": 302
+    },
+    {
+      "index": 15,
+      "filename": "input_015.mp4",
+      "start_frame": 2472,
+      "end_frame": 3078,
+      "start_time": 82.4,
+      "duration": 20.233333333333334,
+      "frame_count": 607
+    },
+    {
+      "index": 21,
+      "filename": "input_021.mp4",
+      "start_frame": 3084,
+      "end_frame": 3381,
+      "start_time": 102.8,
+      "duration": 9.933333333333334,
+      "frame_count": 298
+    },
+    {
+      "index": 24,
+      "filename": "input_024.mp4",
+      "start_frame": 3384,
+      "end_frame": 3689,
+      "start_time": 112.8,
+      "duration": 10.2,
+      "frame_count": 306
+    },
+    {
+      "index": 26,
+      "filename": "input_026.mp4",
+      "start_frame": 3691,
+      "end_frame": 5662,
+      "start_time": 123.03333333333333,
+      "duration": 65.73333333333333,
+      "frame_count": 1972
+    },
+    {
+      "index": 32,
+      "filename": "input_032.mp4",
+      "start_frame": 5668,
+      "end_frame": 5970,
+      "start_time": 188.93333333333334,
+      "duration": 10.1,
+      "frame_count": 303
+    },
+    {
+      "index": 35,
+      "filename": "input_035.mp4",
+      "start_frame": 5973,
+      "end_frame": 6276,
+      "start_time": 199.1,
+      "duration": 10.133333333333333,
+      "frame_count": 304
+    },
+    {
+      "index": 38,
+      "filename": "input_038.mp4",
+      "start_frame": 6279,
+      "end_frame": 6580,
+      "start_time": 209.3,
+      "duration": 10.066666666666666,
+      "frame_count": 302
+    },
+    {
+      "index": 41,
+      "filename": "input_041.mp4",
+      "start_frame": 6583,
+      "end_frame": 7188,
+      "start_time": 219.43333333333334,
+      "duration": 20.2,
+      "frame_count": 606
+    },
+    {
+      "index": 47,
+      "filename": "input_047.mp4",
+      "start_frame": 7194,
+      "end_frame": 7491,
+      "start_time": 239.8,
+      "duration": 9.933333333333334,
+      "frame_count": 298
+    },
+    {
+      "index": 49,
+      "filename": "input_049.mp4",
+      "start_frame": 7493,
+      "end_frame": 7799,
+      "start_time": 249.76666666666668,
+      "duration": 10.233333333333333,
+      "frame_count": 307
+    },
+    {
+      "index": 51,
+      "filename": "input_051.mp4",
+      "start_frame": 7801,
+      "end_frame": 8249,
+      "start_time": 260.03333333333336,
+      "duration": 14.966666666666667,
+      "frame_count": 449
+    }
+  ]
+}

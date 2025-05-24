@@ -1,0 +1,51 @@
+video_segmentation_pro/
+├── app/                       # 应用程序核心
+│   ├── __init__.py
+│   ├── core/                  # 核心处理逻辑
+│   │   ├── __init__.py
+│   │   ├── frame_extractor.py # 增强版帧提取器
+│   │   ├── scene_detector.py  # 增强版场景检测
+│   │   ├── scene_predictor.py # 增强版预测
+│   │   ├── video_splitter.py  # 增强版视频分割
+│   │   ├── video_validator.py # 完善版视频验证
+│   │   └── visualizer.py      # 完整实现的可视化
+│   ├── gui/                   # 图形用户界面
+│   │   ├── __init__.py
+│   │   ├── main_window.py     # 主窗口
+│   │   ├── preview_widget.py  # 视频预览组件
+│   │   ├── settings_panel.py  # 设置面板
+│   │   ├── timeline_widget.py # 时间线组件
+│   │   └── assets/            # 图标和样式
+│   ├── models/                # AI模型
+│   │   ├── __init__.py
+│   │   └── transnetv2.py      # 原模型的优化版本
+│   ├── utils/                 # 工具函数
+│   │   ├── __init__.py
+│   │   ├── config_manager.py  # 配置管理
+│   │   ├── ffmpeg_utils.py    # FFmpeg工具
+│   │   ├── logger.py          # 日志系统
+│   │   └── threading.py       # 多线程支持
+│   ├── api/                   # API接口
+│   │   ├── __init__.py
+│   │   ├── server.py          # API服务器
+│   │   └── endpoints.py       # API端点
+│   └── plugins/               # 插件系统
+│       ├── __init__.py
+│       ├── manager.py         # 插件管理器
+│       └── base.py            # 插件基类
+├── plugins/                   # 实际插件目录
+│   ├── __init__.py
+│   ├── scene_analyzer/        # 场景分析插件
+│   └── content_tagger/        # 内容标签插件
+├── bin/                       # 可执行脚本
+│   ├── segmentation_cli.py    # CLI入口
+│   └── segmentation_gui.py    # GUI入口
+├── tests/                     # 测试
+├── docs/                      # 文档
+├── resources/                 # 资源文件
+│   ├── models/                # 预训练权重
+│   └── templates/             # 处理模板
+├── setup.py                   # 安装脚本
+└── requirements.txt           # 依赖列表
+
+

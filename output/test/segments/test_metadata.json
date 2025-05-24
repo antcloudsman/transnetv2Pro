@@ -1,0 +1,468 @@
+{
+  "source_video": "test.mp4",
+  "video_info": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30.0,
+    "duration": 157.766667,
+    "codec": "h264"
+  },
+  "split_info": {
+    "mode": "scene",
+    "total_scenes": 50,
+    "total_frames": 4733,
+    "processed_at": "2025-05-12T03:41:05.862938"
+  },
+  "segments": [
+    {
+      "index": 1,
+      "filename": "test_001.mp4",
+      "start_frame": 0,
+      "end_frame": 38,
+      "start_time": 0.0,
+      "duration": 1.3,
+      "frame_count": 39
+    },
+    {
+      "index": 2,
+      "filename": "test_002.mp4",
+      "start_frame": 39,
+      "end_frame": 158,
+      "start_time": 1.3,
+      "duration": 4.0,
+      "frame_count": 120
+    },
+    {
+      "index": 3,
+      "filename": "test_003.mp4",
+      "start_frame": 159,
+      "end_frame": 231,
+      "start_time": 5.3,
+      "duration": 2.433333333333333,
+      "frame_count": 73
+    },
+    {
+      "index": 4,
+      "filename": "test_004.mp4",
+      "start_frame": 232,
+      "end_frame": 273,
+      "start_time": 7.733333333333333,
+      "duration": 1.4,
+      "frame_count": 42
+    },
+    {
+      "index": 5,
+      "filename": "test_005.mp4",
+      "start_frame": 274,
+      "end_frame": 285,
+      "start_time": 9.133333333333333,
+      "duration": 0.4,
+      "frame_count": 12
+    },
+    {
+      "index": 6,
+      "filename": "test_006.mp4",
+      "start_frame": 286,
+      "end_frame": 298,
+      "start_time": 9.533333333333333,
+      "duration": 0.43333333333333335,
+      "frame_count": 13
+    },
+    {
+      "index": 7,
+      "filename": "test_007.mp4",
+      "start_frame": 299,
+      "end_frame": 466,
+      "start_time": 9.966666666666667,
+      "duration": 5.6,
+      "frame_count": 168
+    },
+    {
+      "index": 8,
+      "filename": "test_008.mp4",
+      "start_frame": 467,
+      "end_frame": 780,
+      "start_time": 15.566666666666666,
+      "duration": 10.466666666666667,
+      "frame_count": 314
+    },
+    {
+      "index": 9,
+      "filename": "test_009.mp4",
+      "start_frame": 781,
+      "end_frame": 794,
+      "start_time": 26.033333333333335,
+      "duration": 0.4666666666666667,
+      "frame_count": 14
+    },
+    {
+      "index": 10,
+      "filename": "test_010.mp4",
+      "start_frame": 795,
+      "end_frame": 861,
+      "start_time": 26.5,
+      "duration": 2.2333333333333334,
+      "frame_count": 67
+    },
+    {
+      "index": 11,
+      "filename": "test_011.mp4",
+      "start_frame": 862,
+      "end_frame": 912,
+      "start_time": 28.733333333333334,
+      "duration": 1.7,
+      "frame_count": 51
+    },
+    {
+      "index": 12,
+      "filename": "test_012.mp4",
+      "start_frame": 913,
+      "end_frame": 1037,
+      "start_time": 30.433333333333334,
+      "duration": 4.166666666666667,
+      "frame_count": 125
+    },
+    {
+      "index": 13,
+      "filename": "test_013.mp4",
+      "start_frame": 1038,
+      "end_frame": 1162,
+      "start_time": 34.6,
+      "duration": 4.166666666666667,
+      "frame_count": 125
+    },
+    {
+      "index": 14,
+      "filename": "test_014.mp4",
+      "start_frame": 1163,
+      "end_frame": 1174,
+      "start_time": 38.766666666666666,
+      "duration": 0.4,
+      "frame_count": 12
+    },
+    {
+      "index": 15,
+      "filename": "test_015.mp4",
+      "start_frame": 1175,
+      "end_frame": 1205,
+      "start_time": 39.166666666666664,
+      "duration": 1.0333333333333334,
+      "frame_count": 31
+    },
+    {
+      "index": 16,
+      "filename": "test_016.mp4",
+      "start_frame": 1206,
+      "end_frame": 1229,
+      "start_time": 40.2,
+      "duration": 0.8,
+      "frame_count": 24
+    },
+    {
+      "index": 17,
+      "filename": "test_017.mp4",
+      "start_frame": 1230,
+      "end_frame": 1243,
+      "start_time": 41.0,
+      "duration": 0.4666666666666667,
+      "frame_count": 14
+    },
+    {
+      "index": 18,
+      "filename": "test_018.mp4",
+      "start_frame": 1244,
+      "end_frame": 1478,
+      "start_time": 41.46666666666667,
+      "duration": 7.833333333333333,
+      "frame_count": 235
+    },
+    {
+      "index": 19,
+      "filename": "test_019.mp4",
+      "start_frame": 1479,
+      "end_frame": 1555,
+      "start_time": 49.3,
+      "duration": 2.566666666666667,
+      "frame_count": 77
+    },
+    {
+      "index": 20,
+      "filename": "test_020.mp4",
+      "start_frame": 1556,
+      "end_frame": 1742,
+      "start_time": 51.86666666666667,
+      "duration": 6.233333333333333,
+      "frame_count": 187
+    },
+    {
+      "index": 21,
+      "filename": "test_021.mp4",
+      "start_frame": 1743,
+      "end_frame": 1856,
+      "start_time": 58.1,
+      "duration": 3.8,
+      "frame_count": 114
+    },
+    {
+      "index": 22,
+      "filename": "test_022.mp4",
+      "start_frame": 1857,
+      "end_frame": 1982,
+      "start_time": 61.9,
+      "duration": 4.2,
+      "frame_count": 126
+    },
+    {
+      "index": 23,
+      "filename": "test_023.mp4",
+      "start_frame": 1983,
+      "end_frame": 2060,
+      "start_time": 66.1,
+      "duration": 2.6,
+      "frame_count": 78
+    },
+    {
+      "index": 24,
+      "filename": "test_024.mp4",
+      "start_frame": 2061,
+      "end_frame": 2160,
+      "start_time": 68.7,
+      "duration": 3.3333333333333335,
+      "frame_count": 100
+    },
+    {
+      "index": 25,
+      "filename": "test_025.mp4",
+      "start_frame": 2161,
+      "end_frame": 2169,
+      "start_time": 72.03333333333333,
+      "duration": 0.3,
+      "frame_count": 9
+    },
+    {
+      "index": 26,
+      "filename": "test_026.mp4",
+      "start_frame": 2170,
+      "end_frame": 2201,
+      "start_time": 72.33333333333333,
+      "duration": 1.0666666666666667,
+      "frame_count": 32
+    },
+    {
+      "index": 27,
+      "filename": "test_027.mp4",
+      "start_frame": 2202,
+      "end_frame": 2212,
+      "start_time": 73.4,
+      "duration": 0.36666666666666664,
+      "frame_count": 11
+    },
+    {
+      "index": 28,
+      "filename": "test_028.mp4",
+      "start_frame": 2213,
+      "end_frame": 2339,
+      "start_time": 73.76666666666667,
+      "duration": 4.233333333333333,
+      "frame_count": 127
+    },
+    {
+      "index": 29,
+      "filename": "test_029.mp4",
+      "start_frame": 2340,
+      "end_frame": 2351,
+      "start_time": 78.0,
+      "duration": 0.4,
+      "frame_count": 12
+    },
+    {
+      "index": 30,
+      "filename": "test_030.mp4",
+      "start_frame": 2352,
+      "end_frame": 2360,
+      "start_time": 78.4,
+      "duration": 0.3,
+      "frame_count": 9
+    },
+    {
+      "index": 31,
+      "filename": "test_031.mp4",
+      "start_frame": 2361,
+      "end_frame": 2382,
+      "start_time": 78.7,
+      "duration": 0.7333333333333333,
+      "frame_count": 22
+    },
+    {
+      "index": 32,
+      "filename": "test_032.mp4",
+      "start_frame": 2383,
+      "end_frame": 2440,
+      "start_time": 79.43333333333334,
+      "duration": 1.9333333333333333,
+      "frame_count": 58
+    },
+    {
+      "index": 33,
+      "filename": "test_033.mp4",
+      "start_frame": 2441,
+      "end_frame": 2463,
+      "start_time": 81.36666666666666,
+      "duration": 0.7666666666666667,
+      "frame_count": 23
+    },
+    {
+      "index": 34,
+      "filename": "test_034.mp4",
+      "start_frame": 2464,
+      "end_frame": 2491,
+      "start_time": 82.13333333333334,
+      "duration": 0.9333333333333333,
+      "frame_count": 28
+    },
+    {
+      "index": 35,
+      "filename": "test_035.mp4",
+      "start_frame": 2492,
+      "end_frame": 2639,
+      "start_time": 83.06666666666666,
+      "duration": 4.933333333333334,
+      "frame_count": 148
+    },
+    {
+      "index": 36,
+      "filename": "test_036.mp4",
+      "start_frame": 2640,
+      "end_frame": 2659,
+      "start_time": 88.0,
+      "duration": 0.6666666666666666,
+      "frame_count": 20
+    },
+    {
+      "index": 37,
+      "filename": "test_037.mp4",
+      "start_frame": 2660,
+      "end_frame": 2675,
+      "start_time": 88.66666666666667,
+      "duration": 0.5333333333333333,
+      "frame_count": 16
+    },
+    {
+      "index": 38,
+      "filename": "test_038.mp4",
+      "start_frame": 2676,
+      "end_frame": 3037,
+      "start_time": 89.2,
+      "duration": 12.066666666666666,
+      "frame_count": 362
+    },
+    {
+      "index": 39,
+      "filename": "test_039.mp4",
+      "start_frame": 3038,
+      "end_frame": 3228,
+      "start_time": 101.26666666666667,
+      "duration": 6.366666666666666,
+      "frame_count": 191
+    },
+    {
+      "index": 40,
+      "filename": "test_040.mp4",
+      "start_frame": 3229,
+      "end_frame": 3382,
+      "start_time": 107.63333333333334,
+      "duration": 5.133333333333334,
+      "frame_count": 154
+    },
+    {
+      "index": 41,
+      "filename": "test_041.mp4",
+      "start_frame": 3383,
+      "end_frame": 3449,
+      "start_time": 112.76666666666667,
+      "duration": 2.2333333333333334,
+      "frame_count": 67
+    },
+    {
+      "index": 42,
+      "filename": "test_042.mp4",
+      "start_frame": 3450,
+      "end_frame": 3477,
+      "start_time": 115.0,
+      "duration": 0.9333333333333333,
+      "frame_count": 28
+    },
+    {
+      "index": 43,
+      "filename": "test_043.mp4",
+      "start_frame": 3478,
+      "end_frame": 3621,
+      "start_time": 115.93333333333334,
+      "duration": 4.8,
+      "frame_count": 144
+    },
+    {
+      "index": 44,
+      "filename": "test_044.mp4",
+      "start_frame": 3622,
+      "end_frame": 3634,
+      "start_time": 120.73333333333333,
+      "duration": 0.43333333333333335,
+      "frame_count": 13
+    },
+    {
+      "index": 45,
+      "filename": "test_045.mp4",
+      "start_frame": 3635,
+      "end_frame": 3659,
+      "start_time": 121.16666666666667,
+      "duration": 0.8333333333333334,
+      "frame_count": 25
+    },
+    {
+      "index": 46,
+      "filename": "test_046.mp4",
+      "start_frame": 3660,
+      "end_frame": 3702,
+      "start_time": 122.0,
+      "duration": 1.4333333333333333,
+      "frame_count": 43
+    },
+    {
+      "index": 47,
+      "filename": "test_047.mp4",
+      "start_frame": 3703,
+      "end_frame": 3716,
+      "start_time": 123.43333333333334,
+      "duration": 0.4666666666666667,
+      "frame_count": 14
+    },
+    {
+      "index": 48,
+      "filename": "test_048.mp4",
+      "start_frame": 3717,
+      "end_frame": 3757,
+      "start_time": 123.9,
+      "duration": 1.3666666666666667,
+      "frame_count": 41
+    },
+    {
+      "index": 49,
+      "filename": "test_049.mp4",
+      "start_frame": 3758,
+      "end_frame": 3772,
+      "start_time": 125.26666666666667,
+      "duration": 0.5,
+      "frame_count": 15
+    },
+    {
+      "index": 50,
+      "filename": "test_050.mp4",
+      "start_frame": 3773,
+      "end_frame": 4732,
+      "start_time": 125.76666666666667,
+      "duration": 32.0,
+      "frame_count": 960
+    }
+  ]
+}

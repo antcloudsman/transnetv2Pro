@@ -1,0 +1,37 @@
+{
+    "processing": {
+        "weights_path": "app/models/transnetv2_pytorch_weights.pth",
+        "accelerator": "auto",
+        "batch_size": 512,
+        "min_scene_length": 15,
+        "threshold": null,
+        "threshold_percentile": 95,
+        "split_mode": "scene"
+    },
+    "output": {
+        "output_dir": "output",
+        "visualize": true,
+        "create_preview": false,
+        "create_thumbnails": false,
+        "frame_size": [48, 27]
+    },
+    "ffmpeg": {
+        "codec": "libx264",
+        "preset": "medium",
+        "crf": 23,
+        "copy_audio": true,
+        "loglevel": "error"
+    },
+    "gui": {
+        "theme": "fusion",
+        "max_recent_files": 10,
+        "auto_preview": true
+    },
+    "advanced": {
+        "strict_validation": false,
+        "use_threads": true,
+        "thread_count": 4,
+        "cache_frames": true,
+        "cache_size_mb": 1024
+    }
+}
